@@ -1,0 +1,7 @@
+networkx                # Python package for creating and manipulating graphs and networks
+numpy                   # Array processing for numbers, strings, records, and objects
+praw                    # Python Reddit API Wrapper
+python-louvain          # Louvain algorithm for community detection
+requests                # Python HTTP for Humans
+rpy2                    # Python interface to the R language (embedded R)
+scipy                   # Scientific Library for Python
